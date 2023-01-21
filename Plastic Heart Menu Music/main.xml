@@ -1,0 +1,4 @@
+<table name="Plastic Heart">
+<Localization directory="loc" default="EN.txt"/>
+<MenuMusic id="jwph" source="sounds/jw_menu.ogg"/>
+</table>
